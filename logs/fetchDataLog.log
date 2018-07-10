@@ -1,0 +1,1252 @@
+2018-05-10 05:15:44 INFO  fetchData:20 - Connecting to DB
+2018-05-10 05:15:44 TRACE inputTable:61 - entered input table constructor
+2018-05-10 05:15:44 TRACE inputTable:298 - Entered readTable function, with id = Tre18887140, address = jdbc:hsqldb:hsql://localhost/testdb
+2018-05-10 05:15:44 INFO  inputTable:299 - Transaction ID = Tre18887140
+2018-05-10 05:15:44 INFO  inputTable:300 - DB address = jdbc:hsqldb:hsql://localhost/testdb
+2018-05-10 05:15:44 TRACE inputTable:314 - Extracting input table values from DB
+2018-05-10 05:15:44 TRACE inputTable:369 - Exiting readTable function
+2018-05-10 05:15:44 TRACE inputTable:63 - exited input table constructor
+2018-05-10 05:15:44 INFO  fetchData:22 - Input table data retrieved
+2018-05-10 05:15:44 TRACE outputTable:113 - Entered outputTable constructor
+2018-05-10 05:15:44 TRACE outputTable:440 - Entered fillTable function
+2018-05-10 05:15:44 TRACE outputTable:411 - Enttered calculateInterimParameters function
+2018-05-10 05:15:44 TRACE outputTable:433 - Exited calculateInterimParameters function
+2018-05-10 05:15:44 TRACE globalParameters:118 - Entering globalParameters class constructor with maintenance = 2.0
+2018-05-10 05:15:44 TRACE globalParameters:289 - Entering ArrayCreator method
+2018-05-10 05:15:44 TRACE globalParameters:333 - Exiting ArrayCreator method
+2018-05-10 05:15:44 TRACE unitPrice:136 - Entered constructor of unitPrice class
+2018-05-10 05:15:44 TRACE unitPrice:153 - Exiting constructor of unitPrice class
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2, unitPrice = 140.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2, unitPrice = 224.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2, unitPrice = 140.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2, unitPrice = 224.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2, unitPrice = 67.878788
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2, unitPrice = 93.333333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2, unitPrice = 149.333333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2, unitPrice = 10.181818
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2, unitPrice = 14.933333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2, unitPrice = 22.4
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2, unitPrice = 80.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 0, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 149.333333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 224.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 149.333333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 224.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 86.153846
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 114.871795
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 172.307692
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 10.181818
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 14.933333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 22.4
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 80.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 1, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Thick Client/ Mobile, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2, unitPrice = 64.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2, unitPrice = 74.666667
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2, unitPrice = 124.444444
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2, unitPrice = 64.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2, unitPrice = 74.666667
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2, unitPrice = 124.444444
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2, unitPrice = 49.230769
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2, unitPrice = 57.435897
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2, unitPrice = 95.726496
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2, unitPrice = 10.181818
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2, unitPrice = 14.933333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2, unitPrice = 22.4
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2, unitPrice = 80.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 2, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = IVR, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2, unitPrice = 28.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2, unitPrice = 44.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2, unitPrice = 28.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2, unitPrice = 44.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2, unitPrice = 28.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2, unitPrice = 44.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2, unitPrice = 10.181818
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2, unitPrice = 14.933333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2, unitPrice = 22.4
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2, unitPrice = 80.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 3, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Web Services, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2, unitPrice = 149.333333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2, unitPrice = 224.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2, unitPrice = 149.333333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2, unitPrice = 224.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Tool Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2, unitPrice = 86.153846
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2, unitPrice = 114.871795
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2, unitPrice = 172.307692
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Framework Migration, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2, unitPrice = 10.18
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2, unitPrice = 14.93
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2, unitPrice = 22.4
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Optimization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2, unitPrice = 80.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2, unitPrice = 101.818182
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 4, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2, unitPrice = 112.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Componentization, technology = Mainframe, complexity = , mode = 2
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 DEBUG globalParameters:199 - Development unit prices inserted into DB
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0, unitPrice = 1.723077
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0, unitPrice = 2.036364
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0, unitPrice = 2.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 5, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0, unitPrice = 3.2
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0, unitPrice = 4.072727
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0, unitPrice = 5.6
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 6, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0, unitPrice = 1.6
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0, unitPrice = 1.866667
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0, unitPrice = 2.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 7, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0, unitPrice = 2.24
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0, unitPrice = 2.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0, unitPrice = 3.733333
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 8, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0, unitPrice = 2.8
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0, unitPrice = 3.446154
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0, unitPrice = 4.977778
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 0
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 9, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 DEBUG globalParameters:229 - Execution unit prices inserted into DB
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1, unitPrice = 64.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1, unitPrice = 81.454545
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1, unitPrice = 128.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 10, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1, unitPrice = 65.882353
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1, unitPrice = 89.6
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1, unitPrice = 131.764706
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Thick Client/ Mobile, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 11, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1, unitPrice = 64.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1, unitPrice = 74.666667
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1, unitPrice = 124.444444
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = IVR, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 12, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1, unitPrice = 16.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1, unitPrice = 22.4
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1, unitPrice = 56.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Web Services, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 13, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 0
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1, unitPrice = 65.882353
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 1
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1, unitPrice = 89.6
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 2
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE unitPrice:75 - Entered insertOrUpdateParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1, unitPrice = 128.0
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE unitPrice:97 - Exited insertOrUpdateParam method
+2018-05-10 05:15:44 TRACE unitPrice:108 - Entered SelectParam method with parameters- category = Never Automated, technology = Mainframe, complexity = , mode = 1
+2018-05-10 05:15:44 TRACE unitPrice:126 - Exited SelectParam method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 3
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 4
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 5
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 6
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 7
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 8
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 9
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 10
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 11
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 12
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 13
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 TRACE globalParameters:33 - Entered getValues method with i = 14, j = 14
+2018-05-10 05:15:44 TRACE globalParameters:107 - Exiting getValues method
+2018-05-10 05:15:44 DEBUG globalParameters:260 - Maintenance unit prices inserted into DB
+2018-05-10 05:15:44 TRACE globalParameters:276 - Exiting globalParameters class constructor
+2018-05-10 05:15:44 TRACE outputTable:132 - Entered assignIndex function
+2018-05-10 05:15:44 TRACE outputTable:172 - Exited assignIndex function
+2018-05-10 05:15:44 DEBUG outputTable:449 - Manual Execution Productivity calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:462 - % TD calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:482 - Test development TC calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:489 - Cumulative count calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:507 - TC Execution count regression calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:520 - TC Execution count smoke calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:533 - TC Execution count life critical calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:546 - Total count regression calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:553 - Total dev. scope calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:558 - Cost calculation begins
+2018-05-10 05:15:44 DEBUG outputTable:566 - Total dev. cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:588 - Total automation execution cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:607 - Cost Calculation ends
+2018-05-10 05:15:44 DEBUG outputTable:610 - Maintenance cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:634 - Maintenance+Execution cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:640 - Total billing calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:645 - Manual cost calculation begins
+2018-05-10 05:15:44 DEBUG outputTable:651 - Manual execution cost calculation in process
+2018-05-10 05:15:44 DEBUG outputTable:673 - WF spend with automation calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:679 - WF spend without automation calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:689 - Manual execution cost calculation ends
+2018-05-10 05:15:44 DEBUG outputTable:693 - Gain calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:699 - Gain % calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:715 - Net savings calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:723 - Summary & Cost Summary parameter calculation begins
+2018-05-10 05:15:44 DEBUG outputTable:726 - Summary: Total Spend without automation calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:746 - Summary: Gain Per Script calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:760 - Summary: Total gain calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:779 - Summary: Total billing calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:800 - Summary: Total Spend with automation calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:819 - Summary: Total Development cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:839 - Summary: Total automation execution cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:859 - Summary: Maintenance cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:879 - Summary: E+M cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:887 - Summary: Infeasible manual execution cost calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:907 - Summary: Total gain% calculation in progress
+2018-05-10 05:15:44 DEBUG outputTable:943 - Summary & Cost Summary parameter calculation ends
+2018-05-10 05:15:44 DEBUG outputTable:945 - JSON Object creation in prgress
+2018-05-10 05:15:44 TRACE outputTable:1049 - createJSON function entered
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 0
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 1
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 2
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 3
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 4
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 5
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 6
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 7
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 8
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 9
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 10
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 11
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 12
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 13
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 14
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 15
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 16
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 17
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 18
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 19
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 20
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 21
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 22
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 23
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 24
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 25
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 26
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 27
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 28
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 29
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 30
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 31
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 32
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 33
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 34
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:954 - createRow function entered, with i = 35
+2018-05-10 05:15:44 TRACE outputTable:978 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:986 - createSummary function entered
+2018-05-10 05:15:44 TRACE outputTable:997 - createRow function exited
+2018-05-10 05:15:44 TRACE outputTable:1022 - createCostSummary function entered
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 4.6666666666666664E7, Y2 = 4.6666666666666664E7, Y3 = 4.6666666666666664E7, overall = 1.4E8, key = Total WF Spend without Automation Factory
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 5381090.911000001, Y2 = 5112036.36545, Y3 = 0.0, overall = 1.049312727645E7, key = Development Cost
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 2105020.200111109, Y2 = 1.870740807899444E7, Y3 = 3.2666666666666653E7, overall = 5.34790949457722E7, key = Total Gain
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 557343.6330000003, Y2 = 1684697.7997499998, Y3 = 2237481.3484799997, overall = 4479522.78123, key = Automation Execution Cost
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 6401367.8764, Y2 = 8196055.374500002, Y3 = 4653488.3254272, overall = 1.92509115763272E7, key = Billing to Wells Fargo
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 462933.33240000013, Y2 = 1399321.2093, Y3 = 2416006.9769472, overall = 4278261.5186472, key = Maintenance Cost
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 1020276.9654000003, Y2 = 3084019.0090499995, Y3 = 4653488.3254272, overall = 8757784.2998772, key = E+M Cost
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 3.918055555555555E7, Y2 = 2.2847222222222224E7, Y3 = 1.4000000000000013E7, overall = 7.602777777777779E7, key = Manual Execution Cost (Infeasible scripts)
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1005 - createYearlyJSON function entered, with Y1 = 4.558192343195556E7, Y2 = 3.104327759672223E7, Y3 = 1.865348832542721E7, overall = 9.5278689354105E7, key = Total WF Spend with Automation Factory
+2018-05-10 05:15:44 TRACE outputTable:1014 - createYearlyJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:1036 - createCostSummary function exited
+2018-05-10 05:15:44 TRACE outputTable:1067 - createJSON function exited
+2018-05-10 05:15:44 TRACE outputTable:118 - Exiting outputTable constructor
+2018-05-10 05:15:44 INFO  fetchData:24 - Output table calculation complete
+2018-05-10 05:15:44 INFO  fetchData:27 - {"M1":{"Billing to Client":"448424.242583","Total Count":"0.000000","Test Development TCs":"2916.666667","Life Critical Execution Count":"0.000000","Development Cost":"448424.242583","Smoke Execution Count":"0.000000","Maintenance & Execution Cost":"0.000000","Month":"1","Current Manual Execution Cost":"3888888.888889","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"2916.666667","Gain Percentage":"-11.530909","% TD":"4.166667","Client Spend - With Automation Factory":"4337313.131472","Net Savings":"-448424.242583","Regression Execution Count":"0.000000","Maintenance Cost":"0.000000","Gain":"-448424.242583","Automation Execution Cost":"0.000000"},"M2":{"Billing to Client":"463882.984483","Total Count":"3888.888889","Test Development TCs":"2916.666667","Life Critical Execution Count":"291.666667","Development Cost":"448424.242583","Smoke Execution Count":"1944.444444","Maintenance & Execution Cost":"15458.741900","Month":"2","Current Manual Execution Cost":"3775462.962963","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"5833.333333","Gain Percentage":"-8.614242","% TD":"4.166667","Client Spend - With Automation Factory":"4239345.947446","Net Savings":"-350457.058557","Regression Execution Count":"1652.777778","Maintenance Cost":"7014.141400","Gain":"-334998.316657","Automation Execution Cost":"8444.600500"},"M3":{"Billing to Client":"479341.726383","Total Count":"7777.777778","Test Development TCs":"2916.666667","Life Critical Execution Count":"583.333333","Development Cost":"448424.242583","Smoke Execution Count":"3888.888889","Maintenance & Execution Cost":"30917.483800","Month":"3","Current Manual Execution Cost":"3662037.037037","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"8750.000000","Gain Percentage":"-5.697576","% TD":"4.166667","Client Spend - With Automation Factory":"4141378.763420","Net Savings":"-252489.874531","Regression Execution Count":"3305.555556","Maintenance Cost":"14028.282800","Gain":"-221572.390731","Automation Execution Cost":"16889.201000"},"M4":{"Billing to Client":"494800.468283","Total Count":"11666.666667","Test Development TCs":"2916.666667","Life Critical Execution Count":"875.000000","Development Cost":"448424.242583","Smoke Execution Count":"5833.333333","Maintenance & Execution Cost":"46376.225700","Month":"4","Current Manual Execution Cost":"3548611.111111","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"11666.666667","Gain Percentage":"-2.780909","% TD":"4.166667","Client Spend - With Automation Factory":"4043411.579394","Net Savings":"-154522.690506","Regression Execution Count":"4958.333333","Maintenance Cost":"21042.424200","Gain":"-108146.464806","Automation Execution Cost":"25333.801500"},"M5":{"Billing to Client":"510259.210183","Total Count":"15555.555556","Test Development TCs":"2916.666667","Life Critical Execution Count":"1166.666667","Development Cost":"448424.242583","Smoke Execution Count":"7777.777778","Maintenance & Execution Cost":"61834.967600","Month":"5","Current Manual Execution Cost":"3435185.185185","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"14583.333333","Gain Percentage":"0.135758","% TD":"4.166667","Client Spend - With Automation Factory":"3945444.395369","Net Savings":"-56555.506480","Regression Execution Count":"6611.111111","Maintenance Cost":"28056.565600","Gain":"5279.461120","Automation Execution Cost":"33778.402000"},"M6":{"Billing to Client":"525717.952083","Total Count":"19444.444444","Test Development TCs":"2916.666667","Life Critical Execution Count":"1458.333333","Development Cost":"448424.242583","Smoke Execution Count":"9722.222222","Maintenance & Execution Cost":"77293.709500","Month":"6","Current Manual Execution Cost":"3321759.259259","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"17500.000000","Gain Percentage":"3.052424","% TD":"4.166667","Client Spend - With Automation Factory":"3847477.211343","Net Savings":"41411.677546","Regression Execution Count":"8263.888889","Maintenance Cost":"35070.707000","Gain":"118705.387046","Automation Execution Cost":"42223.002500"},"M7":{"Billing to Client":"541176.693983","Total Count":"23333.333333","Test Development TCs":"2916.666667","Life Critical Execution Count":"1750.000000","Development Cost":"448424.242583","Smoke Execution Count":"11666.666667","Maintenance & Execution Cost":"92752.451400","Month":"7","Current Manual Execution Cost":"3208333.333333","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"20416.666667","Gain Percentage":"5.969091","% TD":"4.166667","Client Spend - With Automation Factory":"3749510.027317","Net Savings":"139378.861572","Regression Execution Count":"9916.666667","Maintenance Cost":"42084.848400","Gain":"232131.312972","Automation Execution Cost":"50667.603000"},"M20":{"Billing to Client":"705033.321749","Total Count":"73888.888889","Test Development TCs":"2916.666667","Life Critical Execution Count":"5541.666667","Development Cost":"426003.030454","Smoke Execution Count":"36944.444444","Maintenance & Execution Cost":"279030.291295","Month":"20","Current Manual Execution Cost":"1733796.296296","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"58333.333333","Gain Percentage":"44.462303","% TD":"4.166667","Client Spend - With Automation Factory":"2438829.618045","Net Savings":"1450059.270843","Regression Execution Count":"31402.777778","Maintenance Cost":"126605.252270","Gain":"1729089.562138","Automation Execution Cost":"152425.039025"},"M8":{"Billing to Client":"556635.435883","Total Count":"27222.222222","Test Development TCs":"2916.666667","Life Critical Execution Count":"2041.666667","Development Cost":"448424.242583","Smoke Execution Count":"13611.111111","Maintenance & Execution Cost":"108211.193300","Month":"8","Current Manual Execution Cost":"3094907.407407","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"23333.333333","Gain Percentage":"8.885758","% TD":"4.166667","Client Spend - With Automation Factory":"3651542.843291","Net Savings":"237346.045598","Regression Execution Count":"11569.444444","Maintenance Cost":"49098.989800","Gain":"345557.238898","Automation Execution Cost":"59112.203500"},"M9":{"Billing to Client":"572094.177783","Total Count":"31111.111111","Test Development TCs":"2916.666667","Life Critical Execution Count":"2333.333333","Development Cost":"448424.242583","Smoke Execution Count":"15555.555556","Maintenance & Execution Cost":"123669.935200","Month":"9","Current Manual Execution Cost":"2981481.481481","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"26250.000000","Gain Percentage":"11.802424","% TD":"4.166667","Client Spend - With Automation Factory":"3553575.659265","Net Savings":"335313.229624","Regression Execution Count":"13222.222222","Maintenance Cost":"56113.131200","Gain":"458983.164824","Automation Execution Cost":"67556.804000"},"M22":{"Billing to Client":"734404.931359","Total Count":"81666.666667","Test Development TCs":"2916.666667","Life Critical Execution Count":"6125.000000","Development Cost":"426003.030454","Smoke Execution Count":"40833.333333","Maintenance & Execution Cost":"308401.900905","Month":"22","Current Manual Execution Cost":"1506944.444444","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"64166.666667","Gain Percentage":"50.295636","% TD":"4.166667","Client Spend - With Automation Factory":"2241349.375804","Net Savings":"1647539.513085","Regression Execution Count":"34708.333333","Maintenance Cost":"139932.120930","Gain":"1955941.413990","Automation Execution Cost":"168469.779975"},"M21":{"Billing to Client":"719719.126554","Total Count":"77777.777778","Test Development TCs":"2916.666667","Life Critical Execution Count":"5833.333333","Development Cost":"426003.030454","Smoke Execution Count":"38888.888889","Maintenance & Execution Cost":"293716.096100","Month":"21","Current Manual Execution Cost":"1620370.370370","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"61250.000000","Gain Percentage":"47.378970","% TD":"4.166667","Client Spend - With Automation Factory":"2340089.496925","Net Savings":"1548799.391964","Regression Execution Count":"33055.555556","Maintenance Cost":"133268.686600","Gain":"1842515.488064","Automation Execution Cost":"160447.409500"},"M24":{"Billing to Client":"763776.540969","Total Count":"89444.444444","Test Development TCs":"2916.666667","Life Critical Execution Count":"6708.333333","Development Cost":"426003.030454","Smoke Execution Count":"44722.222222","Maintenance & Execution Cost":"337773.510515","Month":"24","Current Manual Execution Cost":"1280092.592593","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"56.128970","% TD":"4.166667","Client Spend - With Automation Factory":"2043869.133562","Net Savings":"1845019.755327","Regression Execution Count":"38013.888889","Maintenance Cost":"153258.989590","Gain":"2182793.265842","Automation Execution Cost":"184514.520925"},"M23":{"Billing to Client":"749090.736164","Total Count":"85555.555556","Test Development TCs":"2916.666667","Life Critical Execution Count":"6416.666667","Development Cost":"426003.030454","Smoke Execution Count":"42777.777778","Maintenance & Execution Cost":"323087.705710","Month":"23","Current Manual Execution Cost":"1393518.518519","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"67083.333333","Gain Percentage":"53.212303","% TD":"4.166667","Client Spend - With Automation Factory":"2142609.254683","Net Savings":"1746279.634206","Regression Execution Count":"36361.111111","Maintenance Cost":"146595.555260","Gain":"2069367.339916","Automation Execution Cost":"176492.150450"},"M26":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"26","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M25":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"25","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M28":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"28","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M27":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"27","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M29":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"29","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"Cost Summary":{"Total Gain":{"Y1":"2105020.200111","Y2":"18707408.078994","Y3":"32666666.666667","Total":"53479094.945772"},"Manual Execution Cost (Infeasible scripts)":{"Y1":"39180555.555556","Y2":"22847222.222222","Y3":"14000000.000000","Total":"76027777.777778"},"E+M Cost":{"Y1":"1020276.965400","Y2":"3084019.009050","Y3":"4653488.325427","Total":"8757784.299877"},"Total WF Spend with Automation Factory":{"Y1":"45581923.431956","Y2":"31043277.596722","Y3":"18653488.325427","Total":"95278689.354105"},"Development Cost":{"Y1":"5381090.911000","Y2":"5112036.365450","Y3":"0.000000","Total":"10493127.276450"},"Billing to Wells Fargo":{"Y1":"6401367.876400","Y2":"8196055.374500","Y3":"4653488.325427","Total":"19250911.576327"},"Gain Per Script":"763.987071","Total WF Spend without Automation Factory":{"Y1":"46666666.666667","Y2":"46666666.666667","Y3":"46666666.666667","Total":"140000000.000000"},"Maintenance Cost":{"Y1":"462933.332400","Y2":"1399321.209300","Y3":"2416006.976947","Total":"4278261.518647"},"Gain Percent":"0.381994","Automation Execution Cost":{"Y1":"557343.633000","Y2":"1684697.799750","Y3":"2237481.348480","Total":"4479522.781230"}},"M31":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"31","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M30":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"30","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M11":{"Billing to Client":"603011.661583","Total Count":"38888.888889","Test Development TCs":"2916.666667","Life Critical Execution Count":"2916.666667","Development Cost":"448424.242583","Smoke Execution Count":"19444.444444","Maintenance & Execution Cost":"154587.419000","Month":"11","Current Manual Execution Cost":"2754629.629630","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"32083.333333","Gain Percentage":"17.635758","% TD":"4.166667","Client Spend - With Automation Factory":"3357641.291213","Net Savings":"531247.597676","Regression Execution Count":"16527.777778","Maintenance Cost":"70141.414000","Gain":"685835.016676","Automation Execution Cost":"84446.005000"},"M33":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"33","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M10":{"Billing to Client":"587552.919683","Total Count":"35000.000000","Test Development TCs":"2916.666667","Life Critical Execution Count":"2625.000000","Development Cost":"448424.242583","Smoke Execution Count":"17500.000000","Maintenance & Execution Cost":"139128.677100","Month":"10","Current Manual Execution Cost":"2868055.555556","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"29166.666667","Gain Percentage":"14.719091","% TD":"4.166667","Client Spend - With Automation Factory":"3455608.475239","Net Savings":"433280.413650","Regression Execution Count":"14875.000000","Maintenance Cost":"63127.272600","Gain":"572409.090750","Automation Execution Cost":"76001.404500"},"M32":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"32","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M13":{"Billing to Client":"602232.688114","Total Count":"46666.666667","Test Development TCs":"2916.666667","Life Critical Execution Count":"3500.000000","Development Cost":"426003.030454","Smoke Execution Count":"23333.333333","Maintenance & Execution Cost":"176229.657660","Month":"13","Current Manual Execution Cost":"2527777.777778","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"37916.666667","Gain Percentage":"24.045636","% TD":"4.166667","Client Spend - With Automation Factory":"3130010.465892","Net Savings":"758878.422997","Regression Execution Count":"19833.333333","Maintenance Cost":"79961.211960","Gain":"935108.080657","Automation Execution Cost":"96268.445700"},"M35":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"35","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M12":{"Billing to Client":"618470.403483","Total Count":"42777.777778","Test Development TCs":"2916.666667","Life Critical Execution Count":"3208.333333","Development Cost":"448424.242583","Smoke Execution Count":"21388.888889","Maintenance & Execution Cost":"170046.160900","Month":"12","Current Manual Execution Cost":"2641203.703704","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"35000.000000","Gain Percentage":"20.552424","% TD":"4.166667","Client Spend - With Automation Factory":"3259674.107187","Net Savings":"629214.781702","Regression Execution Count":"18180.555556","Maintenance Cost":"77155.555400","Gain":"799260.942602","Automation Execution Cost":"92890.605500"},"M34":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"34","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M15":{"Billing to Client":"631604.297724","Total Count":"54444.444444","Test Development TCs":"2916.666667","Life Critical Execution Count":"4083.333333","Development Cost":"426003.030454","Smoke Execution Count":"27222.222222","Maintenance & Execution Cost":"205601.267270","Month":"15","Current Manual Execution Cost":"2300925.925926","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"43750.000000","Gain Percentage":"29.878970","% TD":"4.166667","Client Spend - With Automation Factory":"2932530.223650","Net Savings":"956358.665239","Regression Execution Count":"23138.888889","Maintenance Cost":"93288.080620","Gain":"1161959.932509","Automation Execution Cost":"112313.186650"},"M14":{"Billing to Client":"616918.492919","Total Count":"50555.555556","Test Development TCs":"2916.666667","Life Critical Execution Count":"3791.666667","Development Cost":"426003.030454","Smoke Execution Count":"25277.777778","Maintenance & Execution Cost":"190915.462465","Month":"14","Current Manual Execution Cost":"2414351.851852","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"40833.333333","Gain Percentage":"26.962303","% TD":"4.166667","Client Spend - With Automation Factory":"3031270.344771","Net Savings":"857618.544118","Regression Execution Count":"21486.111111","Maintenance Cost":"86624.646290","Gain":"1048534.006583","Automation Execution Cost":"104290.816175"},"M36":{"Billing to Client":"387790.693786","Total Count":"93333.333333","Test Development TCs":"0.000000","Life Critical Execution Count":"7000.000000","Development Cost":"0.000000","Smoke Execution Count":"46666.666667","Maintenance & Execution Cost":"387790.693786","Month":"36","Current Manual Execution Cost":"1166666.666667","Total Development Scope":"0.000000","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"70000.000000","Gain Percentage":"70.000000","% TD":"0.000000","Client Spend - With Automation Factory":"1554457.360452","Net Savings":"2334431.528437","Regression Execution Count":"39666.666667","Maintenance Cost":"201333.914746","Gain":"2722222.222222","Automation Execution Cost":"186456.779040"},"M17":{"Billing to Client":"660975.907334","Total Count":"62222.222222","Test Development TCs":"2916.666667","Life Critical Execution Count":"4666.666667","Development Cost":"426003.030454","Smoke Execution Count":"31111.111111","Maintenance & Execution Cost":"234972.876880","Month":"17","Current Manual Execution Cost":"2074074.074074","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"49583.333333","Gain Percentage":"35.712303","% TD":"4.166667","Client Spend - With Automation Factory":"2735049.981408","Net Savings":"1153838.907481","Regression Execution Count":"26444.444444","Maintenance Cost":"106614.949280","Gain":"1388811.784361","Automation Execution Cost":"128357.927600"},"M16":{"Billing to Client":"646290.102529","Total Count":"58333.333333","Test Development TCs":"2916.666667","Life Critical Execution Count":"4375.000000","Development Cost":"426003.030454","Smoke Execution Count":"29166.666667","Maintenance & Execution Cost":"220287.072075","Month":"16","Current Manual Execution Cost":"2187500.000000","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"46666.666667","Gain Percentage":"32.795636","% TD":"4.166667","Client Spend - With Automation Factory":"2833790.102529","Net Savings":"1055098.786360","Regression Execution Count":"24791.666667","Maintenance Cost":"99951.514950","Gain":"1275385.858435","Automation Execution Cost":"120335.557125"},"M19":{"Billing to Client":"690347.516944","Total Count":"70000.000000","Test Development TCs":"2916.666667","Life Critical Execution Count":"5250.000000","Development Cost":"426003.030454","Smoke Execution Count":"35000.000000","Maintenance & Execution Cost":"264344.486490","Month":"19","Current Manual Execution Cost":"1847222.222222","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"55416.666667","Gain Percentage":"41.545636","% TD":"4.166667","Client Spend - With Automation Factory":"2537569.739166","Net Savings":"1351319.149722","Regression Execution Count":"29750.000000","Maintenance Cost":"119941.817940","Gain":"1615663.636212","Automation Execution Cost":"144402.668550"},"M18":{"Billing to Client":"675661.712139","Total Count":"66111.111111","Test Development TCs":"2916.666667","Life Critical Execution Count":"4958.333333","Development Cost":"426003.030454","Smoke Execution Count":"33055.555556","Maintenance & Execution Cost":"249658.681685","Month":"18","Current Manual Execution Cost":"1960648.148148","Total Development Scope":"2916.666667","Client Spend - Without Automation Factory":"3888888.888889","Cumulative Count":"52500.000000","Gain Percentage":"38.628970","% TD":"4.166667","Client Spend - With Automation Factory":"2636309.860287","Net Savings":"1252579.028602","Regression Execution Count":"28097.222222","Maintenance Cost":"113278.383610","Gain":"1502237.710287","Automation Execution Cost":"136380.298075"},"Summary":{"Total Gain":"53479094.945772","Total WF Spend with Automation Factory":"95278689.354105","Gain Per Script":"763.987071","Billing to Wells Fargo":"19250911.576327","Total WF Spend w\/o Automation Factory":"140000000.000000","Development Cost ":"10493127.276450","Maintenance Cost":"4278261.518647","Automation Execution Cost":"4479522.781230"}}
+2018-05-10 05:15:44 TRACE fetchData:54 - Entered pushIntoDB function, with transactionId = Tre18887140, address = jdbc:hsqldb:hsql://localhost/testdb
+2018-05-10 05:15:44 TRACE fetchData:63 - Output table schema created
+2018-05-10 05:15:44 FATAL fetchData:88 - Unable to store output table into DB
+java.sql.SQLIntegrityConstraintViolationException: integrity constraint violation: unique constraint or index violation; SYS_PK_17956 table: OUTPUT_TABLE
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source)
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source)
+	at org.hsqldb.jdbc.JDBCPreparedStatement.fetchResult(Unknown Source)
+	at org.hsqldb.jdbc.JDBCPreparedStatement.executeUpdate(Unknown Source)
+	at calculateOutput.fetchData.pushIntoDB(fetchData.java:69)
+	at calculateOutput.fetchData.main(fetchData.java:29)
+2018-05-10 05:15:44 INFO  fetchData:30 - Completed
